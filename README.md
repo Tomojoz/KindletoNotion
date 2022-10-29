@@ -1,0 +1,2 @@
+# KindletoNotion
+Kindleに入っている書籍の情報をNotionに移すアプリケーション
